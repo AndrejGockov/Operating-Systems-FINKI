@@ -1,0 +1,4 @@
+Received: Server says: Succesfully logged on to server!
+Received: Server says:  welcome 232120
+Sent: awk
+Sent: tuah
