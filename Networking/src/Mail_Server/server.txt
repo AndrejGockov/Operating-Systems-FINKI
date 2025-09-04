@@ -1,0 +1,7 @@
+POST /movies/7 HTTP/1.1
+User: FINKI
+
+MAIL TO: @mail_1
+MAIL FROM:@mail_2
+CC: Mail CC
+?
