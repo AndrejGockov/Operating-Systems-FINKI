@@ -1,0 +1,5 @@
+John Doe Sep 5 2000 Boston USA
+Peter Smith Sep 3 1990 London UK
+Anna Colbert Sep 11 1988 NY USA
+Sarah Kimmel Aug 3 1989 Boston USA
+Mike Doe Aug 7 1977 LA USA
